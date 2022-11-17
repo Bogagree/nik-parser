@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/nik-parser/static/css/main.073c9b0a.css",
+    "main.js": "/nik-parser/static/js/main.c59478d6.js",
+    "static/js/787.7ee17cff.chunk.js": "/nik-parser/static/js/787.7ee17cff.chunk.js",
+    "static/media/app_background.jpg": "/nik-parser/static/media/app_background.4191520d5908e8bf5355.jpg",
+    "index.html": "/nik-parser/index.html",
+    "main.073c9b0a.css.map": "/nik-parser/static/css/main.073c9b0a.css.map",
+    "main.c59478d6.js.map": "/nik-parser/static/js/main.c59478d6.js.map",
+    "787.7ee17cff.chunk.js.map": "/nik-parser/static/js/787.7ee17cff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c59478d6.js"
+  ]
+}
